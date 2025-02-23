@@ -22,14 +22,3 @@ npm i
 ```Alpine Abuild
 node index.js
 ```
-
-# ⚠ ATTENTION ⚠
-<b> It´s a beta, so issue is spected to be apppering. Use at your own risk. </b><br>
-
-
-## STATS
-
-| Megumi-MD                    | Status  |
-| ---------------------------- | :----:  |
-| JS (JavaScript) only         |   ✅   |
-| scalable script structure    |   ✅   |
