@@ -41,7 +41,6 @@
     "fluent-ffmpeg": "*",
     "form-data": "^4.0.0",
     "formdata-node": "^5.0.0",
-    "genius-lyrics": "^4.4.7",
     "got": "12.5.3",
     "groq-sdk": "*",
     "human-readable": "^0.2.1",
