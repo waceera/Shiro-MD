@@ -5,7 +5,7 @@
 ## INSTALLATION
 
 #### REQUIRE
-1. [nodejs](https://nodejs.org/en/download) 18x/20+
+1. [nodejs](https://nodejs.org/en/download) 18x/LTS
 
 ##### CLONE REPOSITORIES
 ```Alpine Abuild
