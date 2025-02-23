@@ -9,14 +9,14 @@ global.setting = {
  addReply: false
  }
 global.owner = [
-['6283832090680', 'Shyro Soft', true]
+['62xxx', 'Shyro', true]
 ]
 global.write_store = false
 
 global.info = {
- nomerbot: '',
- pairingNumber: '',
- nameown: 'Shyro Soft',
+ nomerbot: '62xxx',
+ pairingNumber: '62xxx',
+ nameown: 'Shyro',
  nomerown: '',
  packname: 'Sticker Created By',
  author: '@veikone_assistant_bot',
