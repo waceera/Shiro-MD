@@ -12,12 +12,7 @@
     "test": "node test.js"
   },
   "keywords": [
-    "termux-whatsapp-bot",
-    "whatsapp-bot",
-    "whatsapp",
-    "js-whatsapp",
-    "whatsapp",
-    "wabot-aq"
+    "whatsapp-bot"
   ],
   "license": "MIT",
   "dependencies": {
