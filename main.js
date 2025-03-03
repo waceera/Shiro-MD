@@ -436,11 +436,11 @@ setInterval(async () => {
     if (stopped === 'close' || !conn || !conn.user) return;
     await deleteFilesExceptOne(directory, 'creds.json');
     await clearTmp();
-    conn.reply(Tio + '@s.whatsapp.net', 'Sessions telah dibersihkan', null) >
+    conn.reply(global.info.nomerown + '@s.whatsapp.net', 'Sessions telah dibersihkan', null) >
         console.log(chalk.cyanBright(
             `\n╭───────────────────·»\n│\n` +
             `│  Sessions clear Successfull \n│\n` +
-            `╰───❲ ${global.namebot} ❳\n`
+            `╰───❲ Veikone - AI ❳\n`
         ));
 }, 120 * 60 * 1000); // 2 jam sekali 
 }
