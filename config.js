@@ -125,7 +125,6 @@ global.rpg = {
   }
 }
 
-
 global.api = {
  lol: 'GataDios'
 }
