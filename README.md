@@ -1,16 +1,16 @@
- # VEIKONE - BOT
+ # SHIRO - MD
 
 ![](./src/veiko.gif)
 
 ## INSTALLATION
 
 #### REQUIRE
-1. [nodejs](https://nodejs.org/en/download) 18x/LTS
+1. [NodeJS](https://nodejs.org/en/download) 18x/LTS
 
 ##### CLONE REPOSITORIES
 ```Alpine Abuild
-git clone https://github.com/Aidannd/Veikone-bot
-cd Veikone-bot
+git clone https://github.com/waceera/Shiro-AI
+cd Shiro-AI
 ```
 
 #####  HOW TO INSTALL DEPENDENCIES
@@ -22,3 +22,4 @@ npm i
 ```Alpine Abuild
 npm start
 ```
+#####  ❤ SHYRO SOFT
