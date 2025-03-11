@@ -9,8 +9,8 @@
 
 ##### CLONE REPOSITORIES
 ```Alpine Abuild
-git clone https://github.com/waceera/Shiro-AI
-cd Shiro-AI
+git clone https://github.com/waceera/Shiro-MD
+cd Shiro-MD
 ```
 
 #####  HOW TO INSTALL DEPENDENCIES
