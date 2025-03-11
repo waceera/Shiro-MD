@@ -1,5 +1,6 @@
 /*
 - Shyro Soft
+❤ Pikik
 */
 
 import './config.js'
@@ -440,7 +441,7 @@ setInterval(async () => {
         console.log(chalk.cyanBright(
             `\n╭───────────────────·»\n│\n` +
             `│  Sessions clear Successfull \n│\n` +
-            `╰───❲ Veikone - AI ❳\n`
+            `╰───❲ Shiro MD ❳\n`
         ));
 }, 120 * 60 * 1000); // 2 jam sekali 
 }
