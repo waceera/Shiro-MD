@@ -9,7 +9,7 @@ global.setting = {
  addReply: false
  }
 global.owner = [
-['6283139453295', 'Shiro AI', true] //Nomor dan namamu
+['6283139453295', 'Pikik', true]
 ]
 global.write_store = false
 
@@ -17,13 +17,13 @@ global.info = {
  nomerbot: '62xxx',
  pairingNumber: `${global.info.nomerbot}`,
  nameown: 'Pikik',
- nomerown: '', //Nomor kamu
+ nomerown: '6283139453295', //Nomor kamu
  packname: 'Sticker Created By',
- author: 'Shiro AI',
- namebot: 'Shiro AI',
- wm: 'Copyright SHIRO - AI',
+ author: 'Shiro MD',
+ namebot: 'Shiro MD',
+ wm: 'Copyright SHIRO - MD',
  stickpack: 'Sticker Created By',
- stickauth: 'Shiro AI'
+ stickauth: 'Shiro MD'
 }
 
 //THUMBNAIL URL
@@ -37,10 +37,10 @@ global.url = {
 
 //SOSMED
 global.ling = {
- sgh:  'https://github.com/Aidannd',
- sgc: 'https://chat.whatsapp.com/H7Qhzxloj3XDSU2ROi8nrh',
- sch: 'https://whatsapp.com/channel/0029VaoSyop6xCSQmU0Fiq2c',
- sid: '120363337810931526@newsletter'
+ sgh:  'https://github.com/waceera',
+ sgc: 'https://bit.ly/Bagi2StikerWA',
+ sch: 'https://whatsapp.com/channel/0029Vb2BjSy6buMPEMC7Op1X',
+ sid: '120363367487165652@newsletter'
 }
 
 //WAIT MESEJ
@@ -125,7 +125,7 @@ global.rpg = {
   }
 }
 
-// APIKEY?
+
 global.api = {
  lol: 'GataDios'
 }
@@ -136,6 +136,7 @@ global.APIs = {
 global.APIKeys = {
     "https://api.lolhumaan.xyz": "GataDios"
 }
+
 //DANGER LINE
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
