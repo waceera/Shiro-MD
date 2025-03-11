@@ -1,4 +1,4 @@
-import './config.js'
+import './config.js' //Impor file config.js
 import { fetchLatestBaileysVersion } from 'baileys'
 import cfont from "cfonts";
 import { spawn } from 'child_process';
@@ -132,10 +132,10 @@ const totalFoldersAndFiles = await getTotalFoldersAndFiles(pluginsFolder);
 ┣ Fitur: ${chalk.white(totalFoldersAndFiles.files)} Fitur
 ╰──⎔⎔ 
 
-⎔──⎔⎔ Creator: ${chalk.bold.cyan('Shyro Soft')} ⎔⎔──⎔`)
+⎔──⎔⎔ Creator: ${chalk.bold.cyan('Hazel-Kun')} ⎔⎔──⎔`)
     
   } catch (err) {
-    console.error(chalk.red(`Tidak Bisa Membaca File package.json: ${err}`));
+    console.error(chalk.red(`⚠ Error with code: FILE_CORRUPT at ./package.json`));
   }
 
   setInterval(() => {}, 1000);
