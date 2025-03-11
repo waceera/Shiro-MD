@@ -1,7 +1,7 @@
 {
-  "name": "veikone-ai",
-  "version": "1.0.0",
-  "description": "Simple WhatsApp Bot",
+  "name": "shiro-md",
+  "version": "1.0.2",
+  "description": "Simple WhatsApp Bot with Baileys base by Vei",
   "main": "index.js",
   "type": "module",
   "directories": {
