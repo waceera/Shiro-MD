@@ -9,21 +9,21 @@ global.setting = {
  addReply: false
  }
 global.owner = [
-['62xxx', 'Shyro', true]
+['6283139453295', 'Shiro AI', true] //Nomor dan namamu
 ]
 global.write_store = false
 
 global.info = {
  nomerbot: '62xxx',
- pairingNumber: '62xxx',
- nameown: 'Shyro',
- nomerown: '',
+ pairingNumber: `${global.info.nomerbot}`,
+ nameown: 'Pikik',
+ nomerown: '', //Nomor kamu
  packname: 'Sticker Created By',
- author: '@veikone_assistant_bot',
- namebot: 'Veikonee - AI',
- wm: 'Copyright Veikone - AI',
+ author: 'Shiro AI',
+ namebot: 'Shiro AI',
+ wm: 'Copyright SHIRO - AI',
  stickpack: 'Sticker Created By',
- stickauth: '@veikone_assistant_bot'
+ stickauth: 'Shiro AI'
 }
 
 //THUMBNAIL URL
