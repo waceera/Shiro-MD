@@ -121,7 +121,7 @@ global.timestamp = {
 }
 
 const __dirname = global.__dirname(import.meta.url)
-const logger = pino({ timestamp: () => `,"time":"${new Date().toJSON()}"` }).child({ class: "Shyro" }); logger.level = "fatal"
+const logger = pino({ timestamp: () => `,"time":"${new Date().toJSON()}"` }).child({ class: "ShiroMD" }); logger.level = "fatal"
 const stores = storeSys
 const _vei = stores.makeInMemoryStore({ logger })
 global.stock = _vei
@@ -198,12 +198,12 @@ global.pairingCode = true
 try {
 if (global.pairingCode && !conn.authState.creds.registered) {
     let phoneNumber
-    if (!!global.info.pairingNumber) {
-        phoneNumber = global.info.pairingNumber.replace(/[^0-9]/g, '')
+    if (!!global.info.nomerbot) {
+        phoneNumber = global.info.nomerbot.replace(/[^0-9]/g, '')
     setTimeout(async () => {
         let code = await conn.requestPairingCode(phoneNumber)
         code = code?.match(/.{1,4}/g)?.join("-") || code
-        console.log(chalk.yellow(chalk.bgGreen(`Ni sayang (⁠≧⁠(⁠ｴ⁠)⁠≦⁠ ⁠): `)), chalk.black(chalk.white(code)))
+        console.log(chalk.yellow(chalk.bgGreen(`Your Pairing Code: `)), chalk.black(chalk.white(code)))
     }, 3000)
   }
  }
