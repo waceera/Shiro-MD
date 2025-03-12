@@ -5,7 +5,7 @@
 ![](./src/veiko.gif)
 
 <p align="left">
- <a href="https://wa.me/6283830498138?text=.menu\nExample WhatsApp Bot"><img title="#" src="https://img.shields.io/badge/Whatsapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="https://wa.me/6283830498138?text=.menu *Ini adalah Example WhatsApp Bot*"><img title="#" src="https://img.shields.io/badge/Whatsapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 ## INSTALLATION
