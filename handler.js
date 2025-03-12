@@ -1339,10 +1339,9 @@ export async function participantsUpdate({ id, participants, action }) {
                         mentions: [user],
                         contextInfo: {
                             externalAdReply: {
-                                title: '𝕍𝕖𝕚𝕜𝕠𝕟𝕖 - 𝔸𝕀',
+                                title: 'Shiro MD',
                                 body: action === 'add' ? 'ଓ Selamat Datang' : 'ଓ Selamat Tinggal',
                                 thumbnailUrl: pp,
-                                sourceUrl: ling.sch,
                                 mediaType: 1,
                                 renderLargerThumbnail: false
                             }
