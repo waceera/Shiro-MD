@@ -27,6 +27,14 @@ Install this tool first before running the script
 * Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
+##### FOR VPS USER
+
+* apt update && apt upgrade -y
+* apt install nodejs imagemagick ffmpeg -y
+* node -v 
+* if the version is still under 17, use this step
+* curl -s https://deb.nodesource.com/setup_19.x | sudo bash
+* apt-get install -y nodejs
 
 #####  HOW TO INSTALL DEPENDENCIES
 ```Alpine Abuild
