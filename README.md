@@ -4,6 +4,10 @@
 
 ![](./src/veiko.gif)
 
+<p align="center">
+ <a href="https://wa.me/6283830498138?text=.menu\nExample WhatsApp Bot"><img title="#" src="https://img.shields.io/badge/Whatsapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+
 ## INSTALLATION
 
 #### REQUIRE
