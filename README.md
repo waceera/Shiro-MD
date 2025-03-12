@@ -18,6 +18,15 @@
 git clone https://github.com/waceera/Shiro-MD
 cd Shiro-MD
 ```
+##### FOR WINDOWS/RDP USER
+
+Install this tool first before running the script
+
+* Download And Install Git [`Click Here`](https://git-scm.com/downloads)
+* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
+* Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
+* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
+
 
 #####  HOW TO INSTALL DEPENDENCIES
 ```Alpine Abuild
