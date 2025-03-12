@@ -28,12 +28,12 @@ const {
 const {
  tz } = moment
 const app = express();
-const port = process.env.PORT || 8082;
+const port = process.env.PORT || 666;
 const time = tz('Asia/Jakarta').format('HH:mm:ss');
 const currentFilePath = new URL(import.meta.url).pathname;
 const __dirname = dirname(fileURLToPath(import.meta.url))
 
-let bot_ku = 'Veikone'
+let bot_ku = 'ShiroMD'
 say(bot_ku, {
   font: "simpleBlock",
   align: "center",
