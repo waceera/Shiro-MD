@@ -15,7 +15,6 @@ global.write_store = false
 
 global.info = {
  nomerbot: '62xxx',
- pairingNumber: `${global.info.nomerbot}`,
  nameown: 'Pikik',
  nomerown: '6283139453295', //Nomor kamu
  packname: 'Sticker Created By',
